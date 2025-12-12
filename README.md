@@ -18,6 +18,7 @@ A professionally designed campus-wide network implementing VLANs, routing, secur
 This project simulates a university-wide network using a hierarchical architecture:
 
 🔹 Core Router → College Router / Hostel Router → APs & End Devices
+
 ✅ Key Features
 
 * Separate networks for Hostel, Academic, Library, IT Consulting, and Server Center
